@@ -1,0 +1,14 @@
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\bin\Debug\net8.0\Lab0App.exe
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\bin\Debug\net8.0\Lab0App.deps.json
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\bin\Debug\net8.0\Lab0App.runtimeconfig.json
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\bin\Debug\net8.0\Lab0App.dll
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\bin\Debug\net8.0\Lab0App.pdb
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.AssemblyInfoInputs.cache
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.AssemblyInfo.cs
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.csproj.CoreCompileInputs.cache
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.dll
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\refint\Lab0App.dll
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.pdb
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\Lab0App.genruntimeconfig.cache
+D:\ClassWorkSpace\OOP2\Lab\Lab0\Lab0App\Lab0App\obj\Debug\net8.0\ref\Lab0App.dll
